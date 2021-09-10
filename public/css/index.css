@@ -1,0 +1,8 @@
+.hidden {
+	opacity: 0;
+}
+
+* {
+	margin: 0;
+	font-family: "Chakra Petch", sans-serif;
+}
